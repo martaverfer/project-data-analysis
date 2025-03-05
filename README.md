@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves the analysis of various socioeconomic and environmental factors across differente countries.The goal is to explore and uncover meaningful insights regarding how factors like GDP, population density, health indicators, CO2 emissions, and more impact a country's development and overall well-being.
+This project involves the analysis of various socioeconomic and environmental factors across differents countries. The goal is to explore and uncover meaningful insights regarding how factors like GDP, population density, CO2 emissions, and more impact a country's development and overall well-being.
 
 ## Dataset
 
